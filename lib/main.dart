@@ -1,3 +1,4 @@
+//eklenecek:aşama bittiğinde otomatik geçmeyip butonla geçilecek
 import 'package:flutter/material.dart';
 import 'dart:math';
 
