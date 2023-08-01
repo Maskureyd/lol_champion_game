@@ -13,7 +13,7 @@ class WordGuessingGame extends StatefulWidget {
 
 class _WordGuessingGameState extends State<WordGuessingGame> {
   Random random = Random();
-  List<String> stages = ["Yasuo", "Yone", "Syndra", "Malzahar", "Garen", "Mordekaiser", "Vex", "Morgana", "Samira"];
+  List<String> stages = ["Yasuo", "Yone", "Syndra", "Malzahar", "Garen", "Mordekaiser", "Lux", "Morgana", "Samira"];
   int currentStage = 0;
   String selectedWord = "";
   String guessedWord = "";
